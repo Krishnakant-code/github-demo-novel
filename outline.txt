@@ -1,3 +1,5 @@
 This is the outline of the novel,  well..  not really a novel 
 but this is a just dummy text to text the git log command which 
 tells all the commits uptill that point so.
+
+Adding some more pointless text for third edit
