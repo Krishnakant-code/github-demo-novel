@@ -5,3 +5,6 @@ tells all the commits uptill that point so.
 Adding some more pointless text for third edit
 
 split chapter 1 into chapter 1 and chapter 2
+
+New commit atomic commits means that group commit 
+that are of one type because itll be easier to revert
