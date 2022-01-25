@@ -3,3 +3,5 @@ but this is a just dummy text to text the git log command which
 tells all the commits uptill that point so.
 
 Adding some more pointless text for third edit
+
+split chapter 1 into chapter 1 and chapter 2
