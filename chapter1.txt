@@ -1,6 +1,0 @@
-==============
-chapter 1
-==============
-dummy chapter  1 text
-This is chapter 2
-
